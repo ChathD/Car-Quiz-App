@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CourseWork</string>
+    <string name="identify">identify</string>
+    <string name="advanced_level_car">advanced level</string>
+    <string name="identify_image">Identify the Car Image</string>
+    <string name="car_hints">hints</string>
+    <string name="identify_car_make">Identify the Car Make</string>
+
+    <string-array name="car_types">
+        <item>Audi</item>
+        <item>BMW</item>
+        <item>Ferrari</item>
+        <item>Ford</item>
+        <item>lamborghini</item>
+        <item>porsche</item>
+    </string-array>
+    <!-- Strings used for fragments for navigation -->
+
+</resources>
